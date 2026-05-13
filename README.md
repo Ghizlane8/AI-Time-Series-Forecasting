@@ -107,11 +107,9 @@ You can add screenshots of graphs and prediction results here.
 
 Example:
 
-<img width="721" height="438" alt="image" src="https://github.com/user-attachments/assets/aaa80adc-2b6a-46e6-91dd-f42ff3d69bbf" />
+<img width="710" height="433" alt="image" src="https://github.com/user-attachments/assets/98af43a9-4d22-4f61-874e-84732aee7627" />
 
-
-<img width="716" height="441" alt="image" src="https://github.com/user-attachments/assets/f566f7b7-56f8-4f8e-8ba3-a6f5996550b9" />
-
+<img width="716" height="441" alt="image" src="https://github.com/user-attachments/assets/485bc845-0893-4f57-bab2-bc055c625fe0" />
 
 
 ## 📊 Workflow
