@@ -206,4 +206,3 @@ This project reflects my interest in applying Data Science techniques to solve r
 ## ⭐ Support
 
 If you like this project, give it a star ⭐ on GitHub.
-<img width="725" height="4979" alt="image" src="https://github.com/user-attachments/assets/32e34803-2b75-4659-85a3-c7e7a678150b" />
